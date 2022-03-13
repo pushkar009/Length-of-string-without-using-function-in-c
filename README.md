@@ -1,4 +1,4 @@
-# String of length without using function in C
+# Length of string without using function in C
 * Find length without using function strlen() in C.
 1. The program gets a string from user.
 2. The counter is initially set to zero, when string is entered one by one the counter is incremented by 1.
